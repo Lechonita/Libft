@@ -1,6 +1,6 @@
 # Libft
 
-Cursus 42\n
-Norminette OK
-Moulinette OK
-Bonus included
+Cursus 42 / 
+Norminette OK / 
+Moulinette OK / 
+Bonus included / 
