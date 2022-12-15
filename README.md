@@ -1,3 +1,6 @@
-# 42-Projects
+# Libft
 
-LIBFT / Norminette OK / Moulinette OK / 125%
+Cursus 42
+Norminette OK
+Moulinette OK
+Bonus included
